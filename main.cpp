@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello Yilmaz 9" << endl;
+    cout << "Hello Yilmaz 10" << endl;
 
     //system("PAUSE");
     return 0;
